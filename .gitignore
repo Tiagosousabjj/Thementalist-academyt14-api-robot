@@ -1,0 +1,23 @@
+# Logs e resultados do Robot Framework
+output.xml
+report.html
+log.html
+*.png
+*.jpg
+*.jpeg
+
+# Pastas de logs e temporários
+logs/
+results/
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Configurações locais
+.idea/
+.vscode/
+*.env
